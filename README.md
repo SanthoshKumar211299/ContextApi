@@ -11,13 +11,22 @@ You may also see any lint errors in the console.
 
 Netlify Demo : https://contextapinewapp.netlify.app/
 
-Setup
+Setup:
+------
 Followig are the requirements to run this project:
+--------------------------------------------------
 
 vite --> React Project Build Tool
+
 Node Package Manager (NPM)
+
 React
+
 I code with
-html5 logo  css3 logo  bootstrap logo  javascript logo  react logo
-Tools used
-vscode logo  git logo  netlify logo
+
+html5,  css3,   bootstrap,   javascript,  react .
+
+Tools used:
+------------
+
+vscode,  git,   netlify. 
