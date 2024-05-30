@@ -1,8 +1,23 @@
-# React + Vite
+React useContext Task:
+----------------------
+This is an Shopping Cart Items List website which is based on react useContext Hook which was designed by me[Nithishnk23] using React. It's Guvi-Zen class Roadmap session: React- Day -8: Context API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+npm run dev
+Runs the app in the development mode.
+Open http://localhost:5174/# to view it in your browser.
 
-Currently, two official plugins are available:
+The page will reload when you make changes.
+You may also see any lint errors in the console.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Netlify Demo : https://contextapinewapp.netlify.app/
+
+Setup
+Followig are the requirements to run this project:
+
+vite --> React Project Build Tool
+Node Package Manager (NPM)
+React
+I code with
+html5 logo  css3 logo  bootstrap logo  javascript logo  react logo
+Tools used
+vscode logo  git logo  netlify logo
